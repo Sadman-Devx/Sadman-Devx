@@ -16,9 +16,9 @@
 ###
 <h3 align="center">Turning coffee into code☕💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiajrafi-git1&label=Profile%20views&color=0e75b6&style=flat" alt="imtiajrafi-git1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiajrafi-git1&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman-Devx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiajrafi-git1" alt="imtiajrafi-git1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sadman-Devx" alt="Sadman-Devx" /></a> </p>
 
 
 - 🔭 I’m currently working on **Event Managment System.**
@@ -36,6 +36,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiajrafi-git1&show_icons=true&locale=en&layout=compact" alt="imtiajrafi-git1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadman-Devx&show_icons=true&locale=en&layout=compact" alt="Sadman-Devx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiajrafi-git1&show_icons=true&locale=en" alt="imtiajrafi-git1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sadman-Devx&show_icons=true&locale=en" alt="Sadman-Devx" /></p>
